@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w34luWJyQxk=",
+  "success": true,
+  "projectFilePath": "D:\\code\\ASP\\Web API\\FinShark\\api\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cakev\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\cakev\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\cakev\\.nuget\\packages\\scalar.aspnetcore\\1.2.74\\scalar.aspnetcore.1.2.74.nupkg.sha512"
+  ],
+  "logs": []
+}
